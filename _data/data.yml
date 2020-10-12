@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Professional Background
     summary: |
-      • I am highly enthusiastic about Data Analytics and would love to apply data and analytics in different business areas such as Marketing or Supply Chain.
+      • I am highly enthusiastic about Data Analytics and would love to apply data and analytics in different business areas\n
       • I am a committed teammate and aspired to challenges with a can-do attitude
 
 education:
@@ -78,92 +78,92 @@ experiences:
     - role: Marketing Coordinator
       time: 2015 - 2016
       company: Mead Johnson Nutrition VIetnam
-      details: report to Marketing Manager
-        • Execute promotional activities, sampling, TV program, product launching, and brand activation events.
-        • Develop and customize POSMs for different channels based on brand guidelines and local demands.
-        • Produce monthly marketing reports and obtain necessary data for top managers and other departments. 
-        • Coordinate with relevant departments to ensure proper and timely business transactions. 
+      details: Report to Marketing Manager\n
+        • Execute promotional activities, sampling, TV program, product launching, and brand activation events.\n
+        • Develop and customize POSMs for different channels based on brand guidelines and local demands.\n
+        • Produce monthly marketing reports and obtain necessary data for top managers and other departments.\n
+        • Coordinate with relevant departments to ensure proper and timely business transactions.\n
         • Monitor and estimate monthly marketing budget.
 
     - role: Marketing Assistant
       time: 2012 - 2013
       company: Robert Bosch Vietnam
-      details: report to General Manager
-        • Organize launching events and exhibitions to introduce and promote products, cooperating closely with brand team, sales team, finance team and agencies for ideas, procedures and execution. 
-        • Establish external and internal communication, manage and update the brand's fan page and websites, produce and deliver newsletters to business partners and the company personnel. 
-        • Follow up purchase orders of marketing materials from design to distribution. 	
+      details: Report to General Manager\n
+        • Organize launching events and exhibitions to introduce and promote products, cooperating closely with brand team, sales team, finance team and agencies for ideas, procedures and execution.\n 
+        • Establish external and internal communication, manage and update the brand's fan page and websites, produce and deliver newsletters to business partners and the company personnel.\n
+        • Follow up purchase orders of marketing materials from design to distribution.\n 	
         • Assist business partners with marketing activities.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#projects:
+    #title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #assignments:
+      #- title: Velocity
+        #link: "#hook"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      #- title: DevStudio
+        #link: "#"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      #- title: Tempo
+        #link: "#"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      #- title: Atom
+        #link: "#"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      #- title: Delta
+        #link: "#"
+        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#publications:
+    #title: Publications
+    #intro: |
+      #You can list your publications in this section. Lorem ipsum dolor sit
+      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      #bibendum fringilla a eu lectus.
+    #papers:
+      #- title: The Art of Computer Programming
+        #link: "#"
+        #authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        #link: "#"
+        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      #- title: A syntax directed compiler for Algol 60
+        #link: "#"
+        #authors: Edgar T. Irons
+        #conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 10%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 10%
 
-      - name: Angular
-        level: 98%
+      - name: Tableau
+        level: 10%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: PowerBI
+        level: 10%
 
-      - name: Ruby on Rails
+      - name: Google analytics
+        level: 10%
+
+      - name: Microsoft Office
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
